@@ -80,7 +80,7 @@ int main(void)
     //If checkSum is invalid
     else
     {
-        printf("INVALID\n");
+        printf("INVALID\n"); 
     }
     
 
