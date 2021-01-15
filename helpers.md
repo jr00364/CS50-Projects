@@ -8,3 +8,4 @@ The blur function should take an image and turn it into a box-blurred version of
 The edges function should take an image and highlight the edges between objects, according to the Sobel operator.
 
 ![](giphy.gif)
+ 
