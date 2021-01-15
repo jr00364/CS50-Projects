@@ -6,6 +6,3 @@ The function grayscale should take an image and turn it into a black-and-white v
 The reflect function should take an image and reflect it horizontally.
 The blur function should take an image and turn it into a box-blurred version of the same image.
 The edges function should take an image and highlight the edges between objects, according to the Sobel operator.
-
-
-<iframe src="https://giphy.com/embed/a5qi3OdCi4WpSJYVoQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/a5qi3OdCi4WpSJYVoQ">via GIPHY</a></p>
