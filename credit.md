@@ -17,7 +17,7 @@ Additionally, every valid card number satisfies a **checksum** - a relationship 
 Multiply every other digit by 2, starting with the second-to-last digit
 Add those products' digits together 
 Add the sum to the sum of the digits that weren't multiplied by 2
-If the totals last number is 0, number is VALID!
+If the totals last number is 0, number is VALID! 
 
 So, in order for the credit card to be assigned to one of the companies above it must also satisfy the **checksum** argument
 
