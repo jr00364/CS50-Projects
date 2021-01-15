@@ -1,6 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
-#include <string.h>
+#include <string.h> 
 #include <math.h>
 
 float grade(int letters, int words, int sentences);
