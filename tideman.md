@@ -21,7 +21,7 @@ Rank 2: Charlie
 Rank 3: Bob
 
 Rank 1: Alice
-Rank 2: Charlie
+Rank 2: Charlie 
 Rank 3: Bob
 
 Rank 1: Bob
