@@ -189,7 +189,7 @@ bool graph(int winner, int loser)
         {
             if (graph(winner, i)) // <- is this true or false ? and the original winner is the loser then a cirlce is create
             {
-                // if the loser has an edge?
+                // if the loser has an edge? 
                 return true;
             }
         }
